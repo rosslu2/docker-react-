@@ -1,7 +1,7 @@
 FROM node:14-alpine as builder
 WORKDIR '/app'
 COPY package.json .
-RUN npm install --only=prod
+RUN npm install 
 COPY . /app 
 RUN npm run build
 
