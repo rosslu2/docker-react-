@@ -1,1 +1,5 @@
-## Small Blog Site Built and Deployed with; next.js, Tailwind CCS, GraphQl, hygraph, docker, nginx, github actions
+# Small Blog Site Built and Deployed with:
+
+# Frontend and Content - next.js, Tailwind CCS, GraphQl, hygraph,
+
+# Deployment and Hosting - docker, nginx, github actions, AWS eslastic beanstalk
