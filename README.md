@@ -2,4 +2,4 @@
 
 # Frontend and Content - next.js, Tailwind CCS, GraphQl, hygraph,
 
-# Deployment and Hosting - docker, nginx, github actions, AWS eslastic beanstalk
+# Deployment and Hosting - docker, nginx, github actions, AWS Elastic Beanstalk
