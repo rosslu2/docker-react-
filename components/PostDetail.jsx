@@ -55,6 +55,14 @@ const PostDetail = ({ post }) => {
             src={obj.src}
           />
         );
+      case "code":
+        return (
+          <code key={index}>
+            {modifiedText.map((item, i) => (
+              <React.Fragment key={i}>{item}</React.Fragment>
+            ))}
+          </code>
+        );
       default:
         return modifiedText;
     }
